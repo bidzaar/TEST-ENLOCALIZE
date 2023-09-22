@@ -1,0 +1,28 @@
+{
+  "bdz.dlg": {
+    "confirmation": {
+      "actions": {
+        "cancel": "NO",
+        "submit": "YES"
+      },
+      "error": {
+        "title": "[AT] Failed to perform action",
+        "text": "[AT] Repeat the action again. If the error persists, contact technical support"
+      }
+    },
+    "notification": {
+      "actions": {
+        "confirm": "OK"
+      }
+    },
+    "date": {
+      "actions": {
+        "cancel": "Cancel",
+        "submit": "Save",
+        "clear": "Clear date",
+        "clearCancel": "Cancel",
+        "clearSubmit": "Clear"
+      }
+    }
+  }
+}
